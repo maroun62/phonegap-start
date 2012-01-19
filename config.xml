@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Time Out Beirut</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://maroun62.github.com"
+		email="maroun@timeoutbeirut.com">
+		Maroun Daher
 	</author>
 
 	<gap:platforms>
